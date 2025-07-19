@@ -1,0 +1,1 @@
+REDIS = Redis.new(host: "localhost", port: 5050, db: 0)
